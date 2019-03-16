@@ -30,4 +30,7 @@
     <color name="color6P3">#0000C0</color>
     <color name="color7P3">#0000E0</color>
     <color name="color8P3">#0000ff</color>
+    <color name="bg_red">#ff0000</color>
+    <color name="bg_green">#00ff00</color>
+    <color name="bg_blue">#0000ff</color>
 </resources>
